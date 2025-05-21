@@ -1,4 +1,4 @@
-# 📌 API de Informes de Rendimento
+# 📌 API de Informes de Rendimento versao mac
 
 API desenvolvida em **Spring Boot** para gerenciar declarações de imposto de renda, utilizando **Flyway** para controle de migrações e **MySQL** rodando em um contêiner Docker.
 
